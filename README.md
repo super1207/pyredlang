@@ -1,2 +1,2 @@
 # pyredlang
-https://github.com/super1207/redreply的python实现
+https://github.com/super1207/redreply 的python实现
